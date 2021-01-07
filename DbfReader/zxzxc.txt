@@ -1,0 +1,76 @@
+=============================
+파일명 : TextShape.dbf
+=============================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+Text_id  1  NOT NULL  1162395  
+Poi_id  2  NOT NULL  1162395  
+Text  3  NOT NULL  1162395  
+Text_Kind  4  NOT NULL  1162395  
+From_Level  5  NOT NULL  1162395  
+To_Level  6  NOT NULL  1162395  
+Disp_Kind  7  NOT NULL  1162395  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+Text_id  1  41340000000473  1  
+Text_id  1  41340000000898  1  
+Text_id  1  41340000000932  1  
+Text_id  1  41340000001036  1  
+Text_id  1  41460000000726  1  
+Text_id  1  41460000002454  1  
+Text_id  1  41460000002507  1  
+Text_id  1  41460000003564  1  
+Text_id  1  41460000003748  1  
+Text_id  1  41540000001947  1  
+Poi_id  2  20259479  1  
+Poi_id  2  20265239  1  
+Poi_id  2  7597426  1  
+Poi_id  2  8764078  1  
+Poi_id  2  9847068  1  
+Poi_id  2  9856490  1  
+Poi_id  2  9865143  1  
+Poi_id  2  9881505  1  
+Poi_id  2  9932051  1  
+Poi_id  2  9972883  1  
+Text  3  나트랑  1  
+Text  3  라지마할  1  
+Text  3  말한마리가든  1  
+Text  3  명품수랏간  1  
+Text  3  샐러드앤미미더베드  1  
+Text  3  서광춘희  1  
+Text  3  아일랜드포소랑  1  
+Text  3  애월리에  1  
+Text  3  제스파냐  1  
+Text  3  탐라밸리  1  
+Text_Kind  4  1000  411  
+Text_Kind  4  1080  238  
+Text_Kind  4  1081  553  
+Text_Kind  4  1083  253  
+Text_Kind  4  1084  119  
+Text_Kind  4  1085  74  
+Text_Kind  4  1087  48  
+Text_Kind  4  1088  13  
+Text_Kind  4  1089  155  
+Text_Kind  4  108a  1  
+From_Level  5  10  22176  
+From_Level  5  11  151355  
+From_Level  5  12  26997  
+From_Level  5  3  1  
+From_Level  5  4  2  
+From_Level  5  5  230  
+From_Level  5  6  313  
+From_Level  5  7  1391  
+From_Level  5  8  19924  
+From_Level  5  9  52600  
+To_Level  6  10  19  
+To_Level  6  11  13537  
+To_Level  6  12  415133  
+To_Level  6  2  1  
+To_Level  6  4  3  
+To_Level  6  5  7  
+To_Level  6  6  116  
+To_Level  6  7  6  
+To_Level  6  8  6  
+To_Level  6  9  99  
+Disp_Kind  7  1  336703  
+Disp_Kind  7  2  112401  
+Disp_Kind  7  3  713291  

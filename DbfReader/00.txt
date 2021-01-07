@@ -1,0 +1,93 @@
+=============================
+파일명 : TempTimeNode.dbf
+=============================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+TINdID  1  NOT NULL  321  
+TINdInLk  2  NOT NULL  321  
+TINdOutLk  3  NOT NULL  321  
+TINdVarID  4  NOT NULL  321  
+TTTI_num  5  NOT NULL  321  
+TTTI_kind  6  NOT NULL  321  
+TTTI_info  7  NOT NULL  321  
+start_date  8  NOT NULL  321  
+end_date  9  NOT NULL  321  
+week_day  10  NOT NULL  321  
+start_hour  11  NOT NULL  321  
+end_hour  12  NOT NULL  321  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+TINdID  1  43470000049614  1  
+TINdID  1  43470000049615  2  
+TINdID  1  47650000003489  1  
+TINdID  1  47650000003526  2  
+TINdID  1  47650000003528  1  
+TINdID  1  47650000003531  1  
+TINdID  1  47650000003533  1  
+TINdID  1  47650000003594  1  
+TINdID  1  47650000003669  1  
+TINdID  1  47650000003692  1  
+TINdInLk  2  43470000011486  2  
+TINdInLk  2  43470000011489  1  
+TINdInLk  2  47650000001581  1  
+TINdInLk  2  47650000001582  1  
+TINdInLk  2  47650000001583  1  
+TINdInLk  2  47650000005144  1  
+TINdInLk  2  47650000045531  1  
+TINdInLk  2  47650000046642  1  
+TINdInLk  2  47650000046644  1  
+TINdInLk  2  47650000047454  1  
+TINdOutLk  3  43470000011486  1  
+TINdOutLk  3  43470000011588  1  
+TINdOutLk  3  43470000012584  1  
+TINdOutLk  3  47650000000894  1  
+TINdOutLk  3  47650000000920  1  
+TINdOutLk  3  47650000000921  1  
+TINdOutLk  3  47650000000958  1  
+TINdOutLk  3  47650000001484  1  
+TINdOutLk  3  47650000001584  1  
+TINdOutLk  3  47650000045940  1  
+TINdVarID  4  43470000000003  3  
+TINdVarID  4  47650000000003  11  
+TINdVarID  4  47660000000004  6  
+TINdVarID  4  47660000000005  4  
+TINdVarID  4  47660000000008  1  
+TINdVarID  4  47670000000004  1  
+TINdVarID  4  47680000000003  2  
+TINdVarID  4  47740000000003  1  
+TINdVarID  4  47740000000004  1  
+TINdVarID  4  47750000000003  1  
+TTTI_num  5  1  277  
+TTTI_num  5  2  38  
+TTTI_num  5  3  6  
+TTTI_kind  6  0  321  
+TTTI_info  7  111  321  
+start_date  8  0/0/0  321  
+end_date  9  0/0/0  321  
+week_day  10  127  170  
+week_day  10  128  4  
+week_day  10  31  115  
+week_day  10  32  2  
+week_day  10  63  21  
+week_day  10  64  2  
+week_day  10  65  3  
+week_day  10  96  4  
+start_hour  11  0:0  3  
+start_hour  11  12:30  2  
+start_hour  11  16:0  2  
+start_hour  11  17:0  4  
+start_hour  11  18:0  5  
+start_hour  11  6:0  5  
+start_hour  11  6:30  1  
+start_hour  11  7:0  120  
+start_hour  11  7:30  18  
+start_hour  11  8:0  59  
+end_hour  12  10:0  87  
+end_hour  12  15:30  2  
+end_hour  12  19:0  2  
+end_hour  12  20:0  4  
+end_hour  12  22:0  1  
+end_hour  12  23:0  3  
+end_hour  12  24:0  1  
+end_hour  12  8:0  8  
+end_hour  12  8:30  1  
+end_hour  12  9:0  70  

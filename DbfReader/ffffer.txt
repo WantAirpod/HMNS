@@ -1,0 +1,269 @@
+=============================
+ÆÄÀÏ¸í : LinkShape.dbf
+=============================
+[ÇÊµå¸í] [ÇÊµå¼ø¼­] [NullCheck] [µ¥ÀÌÅÍ°¹¼ö]
+Link_Id  1  NOT NULL  2188595  
+St_Nd_Id  2  NOT NULL  2188595  
+Ed_Nd_Id  3  NOT NULL  2188595  
+Level1  4  NULL  2188595  
+Length  5  NOT NULL  2188595  
+St_dir  6  NULL  2188595  
+Ed_dir  7  NULL  2188595  
+Link_cate  8  NOT NULL  2188595  
+Road_cate  9  NOT NULL  2188595  
+Link_cate2  10  NOT NULL  2188595  
+VarLane  11  NOT NULL  2188595  
+Link_facil  12  NOT NULL  2188595  
+Facil_id  13  NOT NULL  2188595  
+Facil_Name  14  NULL  2188595  
+Road_no  15  NULL  2188595  
+Oneway  16  NOT NULL  2188595  
+Lane  17  NOT NULL  2188595  
+Toll  18  NOT NULL  2188595  
+Car_lane  19  NOT NULL  2188595  
+Var_lane  20  NOT NULL  2188595  
+Hov_lane  21  NOT NULL  2188595  
+S_Hov_lane  22  NOT NULL  2188595  
+Road_name  23  NULL  2188595  
+Barrier  24  NOT NULL  2188595  
+Lane_p  25  NOT NULL  2188595  
+Lane_n  26  NOT NULL  2188595  
+Pk_lane_lp  27  NOT NULL  2188595  
+Pk_lane_ln  28  NOT NULL  2188595  
+Pk_lane_rp  29  NOT NULL  2188595  
+Pk_lane_rn  30  NOT NULL  2188595  
+SpeedLL  31  NOT NULL  2188595  
+SpeedLH  32  NOT NULL  2188595  
+
+[ÇÊµå¸í] [ÇÊµå¼ø¼­] [ÄÚµå¸í] [ÄÚµå°¹¼ö]
+Link_Id  1  27780000000001  1  
+Link_Id  1  27780000000002  1  
+Link_Id  1  27870000000001  1  
+Link_Id  1  27870000000002  1  
+Link_Id  1  27880000000001  1  
+Link_Id  1  27880000000002  1  
+Link_Id  1  28540000000001  1  
+Link_Id  1  28540000000002  1  
+Link_Id  1  28610000000001  1  
+Link_Id  1  28610000000002  1  
+St_Nd_Id  2  27780000000001  2  
+St_Nd_Id  2  27870000000001  2  
+St_Nd_Id  2  27880000000004  2  
+St_Nd_Id  2  28540000000001  2  
+St_Nd_Id  2  28610000000001  2  
+St_Nd_Id  2  28620000000003  1  
+St_Nd_Id  2  28620000000005  1  
+St_Nd_Id  2  28620000000009  2  
+St_Nd_Id  2  28620000000019  1  
+St_Nd_Id  2  28620000000020  1  
+Ed_Nd_Id  3  27780000000004  1  
+Ed_Nd_Id  3  27780000000005  2  
+Ed_Nd_Id  3  27870000000004  2  
+Ed_Nd_Id  3  27870000000005  1  
+Ed_Nd_Id  3  28540000000003  1  
+Ed_Nd_Id  3  28540000000004  1  
+Ed_Nd_Id  3  28610000000004  1  
+Ed_Nd_Id  3  28610000000005  1  
+Ed_Nd_Id  3  28620000000009  1  
+Ed_Nd_Id  3  28620000000349  1  
+Level1  4  2  23218  
+Level1  4  3  125090  
+Level1  4  4  133008  
+Level1  4  5  36701  
+Level1  4  6  69150  
+Level1  4  7  534119  
+Level1  4  8  1267309  
+Length  5  10518  1  
+Length  5  10571  1  
+Length  5  181  1  
+Length  5  208  1  
+Length  5  209  1  
+Length  5  2343  1  
+Length  5  363  1  
+Length  5  5180  1  
+Length  5  521  1  
+Length  5  573  1  
+St_dir  6  1397  1  
+St_dir  6  147  1  
+St_dir  6  15218  1  
+St_dir  6  1523  1  
+St_dir  6  15271  1  
+St_dir  6  1660  1  
+St_dir  6  1733  1  
+St_dir  6  56  1  
+St_dir  6  62  3  
+St_dir  6  76  1  
+Ed_dir  7  1090  1  
+Ed_dir  7  146  1  
+Ed_dir  7  152  3  
+Ed_dir  7  166  1  
+Ed_dir  7  1777  1  
+Ed_dir  7  55  1  
+Ed_dir  7  57  1  
+Ed_dir  7  62  2  
+Ed_dir  7  68  1  
+Ed_dir  7  80  1  
+Link_cate  8  1  6  
+Link_cate  8  12,16  200  
+Link_cate  8  13,16  395  
+Link_cate  8  16  8377  
+Link_cate  8  2  4  
+Link_cate  8  3  522  
+Link_cate  8  3,12  27  
+Link_cate  8  4  4  
+Link_cate  8  6  1  
+Link_cate  8  8  140  
+Road_cate  9  10  10048  
+Road_cate  9  11  8734  
+Road_cate  9  12  244  
+Road_cate  9  3  44  
+Road_cate  9  4  1  
+Road_cate  9  5  3370  
+Road_cate  9  6  727  
+Road_cate  9  7  460  
+Road_cate  9  8  3577  
+Road_cate  9  9  5632  
+Link_cate2  10  0  2180350  
+Link_cate2  10  1  3023  
+Link_cate2  10  2  5222  
+VarLane  11  0  15289  
+VarLane  11  41240000000002  1  
+VarLane  11  41250000000001  1  
+VarLane  11  41330000000001  1  
+VarLane  11  41330000000002  6  
+VarLane  11  41340000000001  1  
+VarLane  11  41340000000002  7  
+VarLane  11  41350000000001  3  
+VarLane  11  41350000000002  6  
+VarLane  11  41360000000001  1  
+Link_facil  12  0  2134400  
+Link_facil  12  1  47865  
+Link_facil  12  2  3748  
+Link_facil  12  3  1265  
+Link_facil  12  4  1317  
+Facil_id  13  0  2697  
+Facil_id  13  28640000000001  1  
+Facil_id  13  33450000000001  1  
+Facil_id  13  33850000000001  1  
+Facil_id  13  33850000000002  1  
+Facil_id  13  41240000000002  1  
+Facil_id  13  41240000000003  1  
+Facil_id  13  41240000000004  1  
+Facil_id  13  41240000000005  1  
+Facil_id  13  41240000000006  1  
+Facil_Name  14  NULL  6980  
+Facil_Name  14  °³²ô¸®¹Î±³  1  
+Facil_Name  14  ±Ý¾Æ±³  1  
+Facil_Name  14  ´ëµ¿±³  1  
+Facil_Name  14  »õ¸ø±³  1  
+Facil_Name  14  ¼­³²¹®´ë±³  1  
+Facil_Name  14  ¿µ¶ô±³  1  
+Facil_Name  14  ¿ù·É±³  1  
+Facil_Name  14  È²°³Ãµ±³  1  
+Facil_Name  14  Èñ¸Á±³  1  
+Road_no  15  1115  69  
+Road_no  15  1116  51  
+Road_no  15  1117  1  
+Road_no  15  1120  101  
+Road_no  15  1121  42  
+Road_no  15  1132  374  
+Road_no  15  1135  101  
+Road_no  15  1136  249  
+Road_no  15  2  44  
+Road_no  15  NULL  9814  
+Oneway  16  1  1967158  
+Oneway  16  2  9768  
+Oneway  16  3  115455  
+Oneway  16  4  94567  
+Oneway  16  5  869  
+Oneway  16  6  778  
+Lane  17  1  106395  
+Lane  17  10  6  
+Lane  17  15  1  
+Lane  17  2  55751  
+Lane  17  3  566  
+Lane  17  4  10698  
+Lane  17  5  220  
+Lane  17  6  2057  
+Lane  17  7  71  
+Lane  17  8  415  
+Toll  18  1  2163843  
+Toll  18  2  24752  
+Car_lane  19  0  2164450  
+Car_lane  19  1  24145  
+Var_lane  20  0  2188147  
+Var_lane  20  1  448  
+Hov_lane  21  0  2185186  
+Hov_lane  21  1  3409  
+S_Hov_lane  22  0  2181835  
+S_Hov_lane  22  1  6760  
+Road_name  23  ´ëÃ»·Î  1  
+Road_name  23  ´ëÃ»·Î19¹ø±æ  1  
+Road_name  23  ´ëÃ»·Î237¹ø±æ  1  
+Road_name  23  ´ëÃ»·Î530¹ø±æ  1  
+Road_name  23  ´ëÃ»·Î7¹ø±æ  1  
+Road_name  23  µÎ¹«Áø·Î  2  
+Road_name  23  ¼ÒÃ»¼­·Î  3  
+Road_name  23  ¼ÒÃ»¼­·Î105¹ø±æ  9  
+Road_name  23  ¼ÒÃ»¼­·Î134¹ø±æ  3  
+Road_name  23  ÀÎÃµ-¹é·Éµµ°£Æä¸®Ç×·Î  11  
+Barrier  24  0ëÃ»·?  1  
+Barrier  24  0ëÃ»·?30¹ø±æ  1  
+Barrier  24  0ëÃ»·?37¹ø±æ  1  
+Barrier  24  0ëÃ»·?9¹ø±æ  1  
+Barrier  24  0ëÃ»·?¹ø±æ  1  
+Barrier  24  0ÎÃ?¹é·Éµµ°£Æä¸®Ç×·Î  11  
+Barrier  24  0Î¹«Áø·?  2  
+Barrier  24  0ÒÃ»¼??  3  
+Barrier  24  0ÒÃ»¼??05¹ø±æ  9  
+Barrier  24  0ÒÃ»¼??34¹ø±æ  3  
+Lane_p  25  0  219561  
+Lane_p  25  1  11  
+Lane_p  25  10  1  
+Lane_p  25  13  1  
+Lane_p  25  2  1892  
+Lane_p  25  3  698  
+Lane_p  25  4  146  
+Lane_p  25  5  14  
+Lane_p  25  6  8  
+Lane_p  25  7  1  
+Lane_n  26  0  175530  
+Lane_n  26  1  14  
+Lane_n  26  2  3638  
+Lane_n  26  3  989  
+Lane_n  26  4  251  
+Lane_n  26  5  12  
+Lane_n  26  6  1  
+Lane_n  26  7  1  
+Lane_n  26  8  3  
+Lane_n  26  9  1  
+Pk_lane_lp  27  0  2177983  
+Pk_lane_lp  27  1  10281  
+Pk_lane_lp  27  2  283  
+Pk_lane_lp  27  3  42  
+Pk_lane_lp  27  4  6  
+Pk_lane_ln  28  0  2152739  
+Pk_lane_ln  28  1  34982  
+Pk_lane_ln  28  2  812  
+Pk_lane_ln  28  3  58  
+Pk_lane_ln  28  4  4  
+Pk_lane_rp  29  0  2179172  
+Pk_lane_rp  29  1  9096  
+Pk_lane_rp  29  2  312  
+Pk_lane_rp  29  3  15  
+Pk_lane_rn  30  0  2164966  
+Pk_lane_rn  30  1  23011  
+Pk_lane_rn  30  2  580  
+Pk_lane_rn  30  3  35  
+Pk_lane_rn  30  4  3  
+SpeedLL  31  0  2188595  
+SpeedLH  32  0  106255  
+SpeedLH  32  100Ï¼øÃµ°í¼Óµµ·?  68  
+SpeedLH  32  110Ø¾È°í¼Óµµ·?  54  
+SpeedLH  32  30  1  
+SpeedLH  32  40  14  
+SpeedLH  32  50  4  
+SpeedLH  32  60  27  
+SpeedLH  32  70  6  
+SpeedLH  32  80  59  
+SpeedLH  32  90  69  

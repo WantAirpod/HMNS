@@ -1,0 +1,198 @@
+=============================
+파일명 : CityHigh.dbf
+=============================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+Ct_Node_id  1  NOT NULL  238  
+Ct_InfoNum  2  NOT NULL  238  
+Ct_in_id  3  NOT NULL  238  
+Ct_out_id  4  NOT NULL  238  
+Ct_pt_code  5  NOT NULL  238  
+Ct_ar_code  6  NOT NULL  238  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+Ct_Node_id  1  44720000012136  1  
+Ct_Node_id  1  44720000012551  1  
+Ct_Node_id  1  44720000012604  1  
+Ct_Node_id  1  44720000012611  1  
+Ct_Node_id  1  44720000012882  1  
+Ct_Node_id  1  44720000012989  1  
+Ct_Node_id  1  44720000013479  1  
+Ct_Node_id  1  44720000013483  1  
+Ct_Node_id  1  44820000008673  1  
+Ct_Node_id  1  44820000008675  1  
+Ct_InfoNum  2  1  238  
+Ct_in_id  3  44720000014896  1  
+Ct_in_id  3  44720000015124  1  
+Ct_in_id  3  44720000015639  1  
+Ct_in_id  3  44720000016852  1  
+Ct_in_id  3  44720000016877  1  
+Ct_in_id  3  44720000017651  1  
+Ct_in_id  3  44720000027291  1  
+Ct_in_id  3  44720000030660  1  
+Ct_in_id  3  44820000018421  1  
+Ct_in_id  3  44820000031851  1  
+Ct_out_id  4  44720000015007  1  
+Ct_out_id  4  44720000015030  1  
+Ct_out_id  4  44720000015633  1  
+Ct_out_id  4  44720000015745  1  
+Ct_out_id  4  44720000015878  1  
+Ct_out_id  4  44720000016812  1  
+Ct_out_id  4  44720000016861  1  
+Ct_out_id  4  44720000016883  1  
+Ct_out_id  4  44820000019365  1  
+Ct_out_id  4  44820000019382  1  
+Ct_pt_code  5  901221E3  1  
+Ct_pt_code  5  90133143  1  
+Ct_pt_code  5  901332BD  1  
+Ct_pt_code  5  90212F68  1  
+Ct_pt_code  5  9021313C  1  
+Ct_pt_code  5  90213252  1  
+Ct_pt_code  5  902321E1  1  
+Ct_pt_code  5  902334A7  1  
+Ct_pt_code  5  903134AB  1  
+Ct_pt_code  5  90323107  1  
+Ct_ar_code  6  D01221E3  1  
+Ct_ar_code  6  D0133143  1  
+Ct_ar_code  6  D01332BD  1  
+Ct_ar_code  6  D0212F68  1  
+Ct_ar_code  6  D021313C  1  
+Ct_ar_code  6  D0213252  1  
+Ct_ar_code  6  D02321E1  1  
+Ct_ar_code  6  D02334A7  1  
+Ct_ar_code  6  D03134AB  1  
+Ct_ar_code  6  D0323107  1  
+=============================
+파일명 : example.dbf
+=============================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+ID  1  NULL  43  
+FIRSTNAME  2  NOT NULL  43  
+LASTNAME  3  NOT NULL  43  
+BIRTH  4  NULL  43  
+MARRIED  5  NULL  43  
+HEIGHT  6  NULL  43  
+WEIGHT  7  NULL  43  
+COMMENT  8  NULL  43  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+ID  1  NULL  43  
+FIRSTNAME  2  Gwyneth  1  
+FIRSTNAME  2  Jamie  1  
+FIRSTNAME  2  Johnny  1  
+FIRSTNAME  2  Julie  1  
+FIRSTNAME  2  Leonardo  1  
+FIRSTNAME  2  Lily  1  
+FIRSTNAME  2  Mark  1  
+FIRSTNAME  2  Robert  1  
+FIRSTNAME  2  Ryan  1  
+FIRSTNAME  2  Tom  1  
+LASTNAME  3  Benz  1  
+LASTNAME  3  Cruise  1  
+LASTNAME  3  Depp  1  
+LASTNAME  3  DiCaprio  1  
+LASTNAME  3  Downey  1  
+LASTNAME  3  Foxx  1  
+LASTNAME  3  Gosling  1  
+LASTNAME  3  James  1  
+LASTNAME  3  Paltrow  1  
+LASTNAME  3  Wahlberg  1  
+BIRTH  4  19720706  1  
+BIRTH  4  19720716  1  
+BIRTH  4  19780217  1  
+BIRTH  4  19811111  1  
+BIRTH  4  19811121  1  
+BIRTH  4  19821201  1  
+BIRTH  4  19821211  1  
+BIRTH  4  19890513  1  
+BIRTH  4  19950424r.  1  
+BIRTH  4  19990226  1  
+MARRIED  5  F  1  
+MARRIED  5  F9751105  1  
+MARRIED  5  F9780217  1  
+MARRIED  5  F9821201  1  
+MARRIED  5  F9890513  2  
+MARRIED  5  F9950424  1  
+MARRIED  5  F9950424r.  1  
+MARRIED  5  NULL  8  
+MARRIED  5  T9720716  1  
+MARRIED  5  T9811121  1  
+HEIGHT  6  NULL  43  
+WEIGHT  7  NULL  43  
+COMMENT  8  NULL  14  
+COMMENT  8  dates  1  
+COMMENT  8  do  1  
+COMMENT  8  have  1  
+COMMENT  8  it  1  
+COMMENT  8  just  1  
+COMMENT  8  not  1  
+COMMENT  8  numbers  1  
+COMMENT  8  this  1  
+COMMENT  8  you  1  
+=============================
+파일명 : TempTimeTrafficInfo.dbf
+=============================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+TTTI_id  1  NOT NULL  1397  
+TTTI_num  2  NOT NULL  1397  
+TTTI_kind  3  NOT NULL  1397  
+TTTI_info  4  NOT NULL  1397  
+start_date  5  NOT NULL  1397  
+end_date  6  NOT NULL  1397  
+week_day  7  NOT NULL  1397  
+start_hour  8  NOT NULL  1397  
+end_hour  9  NOT NULL  1397  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+TTTI_id  1  41240000000002  1  
+TTTI_id  1  41250000000001  1  
+TTTI_id  1  41330000000001  1  
+TTTI_id  1  41330000000002  1  
+TTTI_id  1  41340000000001  1  
+TTTI_id  1  41340000000002  1  
+TTTI_id  1  41350000000001  1  
+TTTI_id  1  41350000000002  1  
+TTTI_id  1  41360000000001  1  
+TTTI_id  1  41360000000002  1  
+TTTI_num  2  1  1307  
+TTTI_num  2  2  76  
+TTTI_num  2  3  6  
+TTTI_num  2  4  8  
+TTTI_kind  3  0  157  
+TTTI_kind  3  1  545  
+TTTI_kind  3  3  2  
+TTTI_kind  3  4  693  
+TTTI_info  4  000  1238  
+TTTI_info  4  001  1  
+TTTI_info  4  111  158  
+start_date  5  0/0/0  1397  
+end_date  6  0/0/0  1397  
+week_day  7  0  273  
+week_day  7  1  1  
+week_day  7  127  3  
+week_day  7  30  1  
+week_day  7  31  11  
+week_day  7  48  1  
+week_day  7  63  2  
+week_day  7  8  1  
+week_day  7  96  2  
+week_day  7  97  1  
+start_hour  8  0:0  256  
+start_hour  8  10:0  1  
+start_hour  8  11:0  1  
+start_hour  8  12:0  1  
+start_hour  8  16:0  1  
+start_hour  8  17:0  1  
+start_hour  8  18:0  2  
+start_hour  8  5:0  1  
+start_hour  8  6:0  2  
+start_hour  8  8:0  1  
+end_hour  9  11:0  1  
+end_hour  9  12:0  1  
+end_hour  9  18:0  1  
+end_hour  9  20:0  1  
+end_hour  9  22:0  4  
+end_hour  9  24:0  267  
+end_hour  9  4:0  1  
+end_hour  9  5:0  2  
+end_hour  9  6:0  1  
+end_hour  9  9:0  2  

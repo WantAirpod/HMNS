@@ -1,0 +1,67 @@
+=======================================================
+파일명 : example.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+ID  1  NULL  43  
+FIRSTNAME  2  NOT NULL  43  
+LASTNAME  3  NOT NULL  43  
+BIRTH  4  NULL  43  
+MARRIED  5  NULL  43  
+HEIGHT  6  NULL  43  
+WEIGHT  7  NULL  43  
+COMMENT  8  NULL  43  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+ID  1  NULL  43  
+FIRSTNAME  2  Gwyneth  1  
+FIRSTNAME  2  Jamie  1  
+FIRSTNAME  2  Johnny  1  
+FIRSTNAME  2  Julie  1  
+FIRSTNAME  2  Leonardo  1  
+FIRSTNAME  2  Lily  1  
+FIRSTNAME  2  Mark  1  
+FIRSTNAME  2  Robert  1  
+FIRSTNAME  2  Ryan  1  
+FIRSTNAME  2  Tom  1  
+LASTNAME  3  Benz  1  
+LASTNAME  3  Cruise  1  
+LASTNAME  3  Depp  1  
+LASTNAME  3  DiCaprio  1  
+LASTNAME  3  Downey  1  
+LASTNAME  3  Foxx  1  
+LASTNAME  3  Gosling  1  
+LASTNAME  3  James  1  
+LASTNAME  3  Paltrow  1  
+LASTNAME  3  Wahlberg  1  
+BIRTH  4  19720706  1  
+BIRTH  4  19720716  1  
+BIRTH  4  19780217  1  
+BIRTH  4  19811111  1  
+BIRTH  4  19811121  1  
+BIRTH  4  19821201  1  
+BIRTH  4  19821211  1  
+BIRTH  4  19890513  1  
+BIRTH  4  19950424r.  1  
+BIRTH  4  19990226  1  
+MARRIED  5  NULL  8  
+MARRIED  5  F  1  
+MARRIED  5  F9751105  1  
+MARRIED  5  F9780217  1  
+MARRIED  5  F9821201  1  
+MARRIED  5  F9890513  2  
+MARRIED  5  F9950424  1  
+MARRIED  5  F9950424r.  1  
+MARRIED  5  T9720716  1  
+MARRIED  5  T9811121  1  
+HEIGHT  6  NULL  43  
+WEIGHT  7  NULL  43  
+COMMENT  8  NULL  14  
+COMMENT  8  dates  1  
+COMMENT  8  do  1  
+COMMENT  8  have  1  
+COMMENT  8  it  1  
+COMMENT  8  just  1  
+COMMENT  8  not  1  
+COMMENT  8  numbers  1  
+COMMENT  8  this  1  
+COMMENT  8  you  1  

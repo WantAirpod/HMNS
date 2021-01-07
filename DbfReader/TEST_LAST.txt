@@ -1,0 +1,1092 @@
+=============================
+파일명 : 3DInfo.dbf
+=============================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+Info_Nd_id  1  NOT NULL  3328  
+Nm_3d_info  2  NOT NULL  3328  
+Img_in_id  3  NOT NULL  3328  
+Img_out_id  4  NOT NULL  3328  
+Img_PtCode  5  NOT NULL  3328  
+Img_ArCode  6  NOT NULL  3328  
+Img_GuCode  7  NOT NULL  3328  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+Info_Nd_id  1  43450000040676  2  
+Info_Nd_id  1  43450000040728  2  
+Info_Nd_id  1  43460000000506  2  
+Info_Nd_id  1  43460000000628  2  
+Info_Nd_id  1  43460000000706  1  
+Nm_3d_info  2  2  3328  
+Img_in_id  3  43450000002816  2  
+Img_in_id  3  43450000003368  2  
+Img_in_id  3  43460000000743  2  
+Img_in_id  3  43460000004155  1  
+Img_in_id  3  43460000010061  2  
+Img_out_id  4  43450000002814  2  
+Img_out_id  4  43450000002820  1  
+Img_out_id  4  43450000003624  1  
+Img_out_id  4  43460000001228  1  
+Img_out_id  4  43460000011364  1  
+Img_PtCode  5  81010100  2  
+Img_PtCode  5  81020100  8  
+Img_PtCode  5  81020200  2  
+Img_PtCode  5  81020201  2  
+Img_PtCode  5  82020200  1  
+Img_ArCode  6  c1020100  4  
+Img_ArCode  6  c1020201  1  
+Img_ArCode  6  e1020100  4  
+Img_ArCode  6  e1020200  1  
+Img_ArCode  6  e1020201  1  
+Img_GuCode  7  0  1664  
+Img_GuCode  7  1  657  
+Img_GuCode  7  2  1007  
+=======================================================
+파일명 : CityHigh.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+Ct_Node_id  1  NOT NULL  238  
+Ct_InfoNum  2  NOT NULL  238  
+Ct_in_id  3  NOT NULL  238  
+Ct_out_id  4  NOT NULL  238  
+Ct_pt_code  5  NOT NULL  238  
+Ct_ar_code  6  NOT NULL  238  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+Ct_Node_id  1  44720000012136  1  
+Ct_Node_id  1  44720000012551  1  
+Ct_Node_id  1  44720000012604  1  
+Ct_Node_id  1  44720000012611  1  
+Ct_Node_id  1  44720000012882  1  
+Ct_InfoNum  2  1  238  
+Ct_in_id  3  44720000014896  1  
+Ct_in_id  3  44720000015124  1  
+Ct_in_id  3  44720000015639  1  
+Ct_in_id  3  44720000027291  1  
+Ct_in_id  3  44720000030660  1  
+Ct_out_id  4  44720000015007  1  
+Ct_out_id  4  44720000015030  1  
+Ct_out_id  4  44720000015633  1  
+Ct_out_id  4  44720000015745  1  
+Ct_out_id  4  44720000016812  1  
+Ct_pt_code  5  90133143  1  
+Ct_pt_code  5  90212F68  1  
+Ct_pt_code  5  9021313C  1  
+Ct_pt_code  5  90213252  1  
+Ct_pt_code  5  90323107  1  
+Ct_ar_code  6  D0133143  1  
+Ct_ar_code  6  D0212F68  1  
+Ct_ar_code  6  D021313C  1  
+Ct_ar_code  6  D0213252  1  
+Ct_ar_code  6  D0323107  1  
+=======================================================
+파일명 : CommonRender.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+CR_Node_id  1  NOT NULL  19997  
+Cross_Type  2  NOT NULL  19997  
+CR_InLkId  3  NOT NULL  19997  
+OutLk_Id  4  NOT NULL  19997  
+OutLk_size  5  NOT NULL  19997  
+PatternId  6  NULL  19997  
+ArrowId  7  NULL  19997  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+CR_Node_id  1  41240000040166  17  
+CR_Node_id  1  41240000044732  1  
+CR_Node_id  1  41340000039741  2  
+CR_Node_id  1  41340000039764  2  
+CR_Node_id  1  41340000039803  1  
+Cross_Type  2  1  2828  
+Cross_Type  2  2  1386  
+Cross_Type  2  3  1063  
+Cross_Type  2  6  14720  
+CR_InLkId  3  41240000003317  4  
+CR_InLkId  3  41240000006294  3  
+CR_InLkId  3  41240000006300  4  
+CR_InLkId  3  41240000008281  3  
+CR_InLkId  3  41240000008283  1  
+OutLk_Id  4  41240000003317  1  
+OutLk_Id  4  41240000006294  1  
+OutLk_Id  4  41240000006300  2  
+OutLk_Id  4  41240000008281  1  
+OutLk_Id  4  41240000008283  1  
+OutLk_size  5  1  12  
+OutLk_size  5  2  104  
+OutLk_size  5  3  27  
+OutLk_size  5  4  52  
+OutLk_size  5  5  1  
+PatternId  6  KRMM000800FC0110000001  4  
+PatternId  6  KRMM000800FC0120000001  4  
+PatternId  6  KRMM000800FC0130000001  3  
+PatternId  6  KRMM000800FC0140000001  1  
+PatternId  6  KRMM000800FC0150000001  3  
+ArrowId  7  KRMA000100FC0120000001  1  
+ArrowId  7  KRMA000100FC0150000001  1  
+ArrowId  7  KRMA000300FC0120000001  1  
+ArrowId  7  KRMA000400FC0120000001  1  
+ArrowId  7  KRMA000500FC0120000001  1  
+=======================================================
+파일명 : example.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+ID  1  NULL  43  
+FIRSTNAME  2  NOT NULL  43  
+LASTNAME  3  NOT NULL  43  
+BIRTH  4  NULL  43  
+MARRIED  5  NULL  43  
+HEIGHT  6  NULL  43  
+WEIGHT  7  NULL  43  
+COMMENT  8  NULL  43  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+ID  1  NULL  43  
+FIRSTNAME  2  Leonardo  1  
+FIRSTNAME  2  Lily  1  
+FIRSTNAME  2  Robert  1  
+FIRSTNAME  2  Ryan  1  
+FIRSTNAME  2  Tom  1  
+LASTNAME  3  Cruise  1  
+LASTNAME  3  DiCaprio  1  
+LASTNAME  3  Downey  1  
+LASTNAME  3  Gosling  1  
+LASTNAME  3  James  1  
+BIRTH  4  19811111  1  
+BIRTH  4  19811121  1  
+BIRTH  4  19821201  1  
+BIRTH  4  19890513  1  
+BIRTH  4  19950424r.  1  
+MARRIED  5  F9821201  1  
+MARRIED  5  F9890513  1  
+MARRIED  5  F9950424r.  1  
+MARRIED  5  NULL  1  
+MARRIED  5  T9811121  1  
+HEIGHT  6  NULL  43  
+WEIGHT  7  NULL  43  
+COMMENT  8  NULL  9  
+COMMENT  8  dates  1  
+COMMENT  8  it  1  
+COMMENT  8  just  1  
+COMMENT  8  this  1  
+=======================================================
+파일명 : HighWay.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+Hw_Node_id  1  NULL  5940  
+Hw_in_id  2  NOT NULL  5940  
+Hw_out_id  3  NOT NULL  5940  
+Hw_pt_code  4  NULL  5940  
+Hw_ar_code  5  NULL  5940  
+Hw_vc_code  6  NULL  5940  
+Hw_NumInNd  7  NULL  5940  
+Hw_NumOtNd  8  NULL  5940  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+Hw_Node_id  1  43470000000406  2  
+Hw_Node_id  1  43470000000407  2  
+Hw_Node_id  1  43470000000411  2  
+Hw_Node_id  1  43550000041980  2  
+Hw_Node_id  1  43560000002318  1  
+Hw_in_id  2  43470000010051  2  
+Hw_in_id  2  43470000011119  2  
+Hw_in_id  2  43470000013894  2  
+Hw_in_id  2  43550000004638  2  
+Hw_in_id  2  43560000002993  1  
+Hw_out_id  3  43470000010158  1  
+Hw_out_id  3  43470000010159  1  
+Hw_out_id  3  43470000010671  1  
+Hw_out_id  3  43470000010690  1  
+Hw_out_id  3  43470000011306  1  
+Hw_pt_code  4  80222001  8  
+Hw_pt_code  4  80222101  2  
+Hw_pt_code  4  80223101  26  
+Hw_pt_code  4  80231013  1  
+Hw_pt_code  4  80aa3102  2  
+Hw_ar_code  5  00222001  4  
+Hw_ar_code  5  00223101  11  
+Hw_ar_code  5  10222101  1  
+Hw_ar_code  5  20222001  4  
+Hw_ar_code  5  20223101  11  
+Hw_vc_code  6  0  1895  
+Hw_vc_code  6  1  2878  
+Hw_vc_code  6  2  1167  
+Hw_NumInNd  7  0  5684  
+Hw_NumInNd  7  1  256  
+Hw_NumOtNd  8  0  5684  
+Hw_NumOtNd  8  2  246  
+Hw_NumOtNd  8  3  8  
+Hw_NumOtNd  8  4  2  
+=======================================================
+파일명 : LaneInfo.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+LaneNd_id  1  NULL  347360  
+Num_Lane  2  NOT NULL  347360  
+InLink_id  3  NOT NULL  347360  
+OutLink_id  4  NULL  347360  
+Pass_Info  5  NULL  347360  
+Angle  6  NULL  347360  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+LaneNd_id  1  41230000000108  8  
+LaneNd_id  1  41230000003460  8  
+LaneNd_id  1  41230000015739  8  
+LaneNd_id  1  41230000015742  8  
+LaneNd_id  1  41230000015770  1  
+Num_Lane  2  2  2  
+Num_Lane  2  4  1  
+Num_Lane  2  5  15  
+Num_Lane  2  6  6  
+Num_Lane  2  8  80  
+InLink_id  3  41230000000696  4  
+InLink_id  3  41230000000700  4  
+InLink_id  3  41230000000748  1  
+InLink_id  3  41230000001438  4  
+InLink_id  3  41230000001462  4  
+OutLink_id  4  41230000000696  2  
+OutLink_id  4  41230000000700  2  
+OutLink_id  4  41230000001434  1  
+OutLink_id  4  41230000001479  2  
+OutLink_id  4  41230000001489  2  
+Pass_Info  5  24576  20  
+Pass_Info  5  32768  37  
+Pass_Info  5  4096  2  
+Pass_Info  5  49152  1  
+Pass_Info  5  8192  17  
+Angle  6  1  2  
+Angle  6  10  1  
+Angle  6  3  1  
+Angle  6  7  2  
+Angle  6  9  1  
+=======================================================
+파일명 : LeftTurn.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+LTurn_NdId  1  NULL  22692  
+DataNum  2  NOT NULL  22692  
+InputLkId  3  NOT NULL  22692  
+OutptLkId  4  NULL  22692  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+LTurn_NdId  1  41250000000339  2  
+LTurn_NdId  1  41330000016765  1  
+LTurn_NdId  1  41340000039694  2  
+LTurn_NdId  1  41340000040119  2  
+LTurn_NdId  1  41350000001936  1  
+DataNum  2  1  724  
+DataNum  2  2  740  
+DataNum  2  3  90  
+DataNum  2  4  452  
+DataNum  2  5  1  
+InputLkId  3  41250000000124  1  
+InputLkId  3  41250000001638  1  
+InputLkId  3  41330000003348  1  
+InputLkId  3  41340000005946  1  
+InputLkId  3  41340000005960  1  
+OutptLkId  4  41250000001630  1  
+OutptLkId  4  41250000002029  1  
+OutptLkId  4  41330000003516  1  
+OutptLkId  4  41340000005938  1  
+OutptLkId  4  41340000005950  1  
+=======================================================
+파일명 : LinkShape.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+Link_Id  1  NULL  2188595  
+St_Nd_Id  2  NOT NULL  2188595  
+Ed_Nd_Id  3  NOT NULL  2188595  
+Level1  4  NULL  2188595  
+Length  5  NULL  2188595  
+St_dir  6  NULL  2188595  
+Ed_dir  7  NULL  2188595  
+Link_cate  8  NULL  2188595  
+Road_cate  9  NOT NULL  2188595  
+Link_cate2  10  NOT NULL  2188595  
+VarLane  11  NOT NULL  2188595  
+Link_facil  12  NOT NULL  2188595  
+Facil_id  13  NOT NULL  2188595  
+Facil_Name  14  NULL  2188595  
+Road_no  15  NULL  2188595  
+Oneway  16  NOT NULL  2188595  
+Lane  17  NOT NULL  2188595  
+Toll  18  NOT NULL  2188595  
+Car_lane  19  NOT NULL  2188595  
+Var_lane  20  NOT NULL  2188595  
+Hov_lane  21  NOT NULL  2188595  
+S_Hov_lane  22  NOT NULL  2188595  
+Road_name  23  NULL  2188595  
+Barrier  24  NOT NULL  2188595  
+Lane_p  25  NOT NULL  2188595  
+Lane_n  26  NOT NULL  2188595  
+Pk_lane_lp  27  NOT NULL  2188595  
+Pk_lane_ln  28  NOT NULL  2188595  
+Pk_lane_rp  29  NOT NULL  2188595  
+Pk_lane_rn  30  NOT NULL  2188595  
+SpeedLL  31  NOT NULL  2188595  
+SpeedLH  32  NOT NULL  2188595  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+Link_Id  1  27780000000001  1  
+Link_Id  1  27780000000002  1  
+Link_Id  1  27870000000001  1  
+Link_Id  1  27870000000002  1  
+Link_Id  1  27880000000001  1  
+St_Nd_Id  2  27780000000001  2  
+St_Nd_Id  2  27870000000001  2  
+St_Nd_Id  2  27880000000004  2  
+St_Nd_Id  2  28540000000001  2  
+St_Nd_Id  2  28610000000001  1  
+Ed_Nd_Id  3  27780000000004  1  
+Ed_Nd_Id  3  27780000000005  2  
+Ed_Nd_Id  3  27870000000004  2  
+Ed_Nd_Id  3  27870000000005  1  
+Ed_Nd_Id  3  28540000000003  1  
+Level1  4  3  439  
+Level1  4  4  57  
+Level1  4  5  1  
+Level1  4  7  916  
+Level1  4  8  2127  
+Length  5  10518  1  
+Length  5  10571  1  
+Length  5  208  1  
+Length  5  209  1  
+Length  5  2343  1  
+St_dir  6  147  1  
+St_dir  6  15218  1  
+St_dir  6  1523  1  
+St_dir  6  15271  1  
+St_dir  6  62  3  
+Ed_dir  7  146  1  
+Ed_dir  7  152  3  
+Ed_dir  7  57  1  
+Ed_dir  7  62  2  
+Ed_dir  7  68  1  
+Link_cate  8  12,16  7  
+Link_cate  8  13,16  1  
+Link_cate  8  16  1576  
+Link_cate  8  3  20  
+Link_cate  8  8  1  
+Road_cate  9  10  1  
+Road_cate  9  11  5  
+Road_cate  9  12  11  
+Road_cate  9  8  2  
+Road_cate  9  9  1  
+Link_cate2  10  0  2180350  
+Link_cate2  10  1  3023  
+Link_cate2  10  2  5222  
+VarLane  11  0  7426  
+VarLane  11  41240000000002  1  
+VarLane  11  41250000000001  1  
+VarLane  11  41330000000001  1  
+VarLane  11  41330000000002  5  
+Link_facil  12  0  79439  
+Link_facil  12  1  958  
+Link_facil  12  2  4  
+Link_facil  12  3  10  
+Link_facil  12  4  1  
+Facil_id  13  0  477  
+Facil_id  13  28640000000001  1  
+Facil_id  13  33450000000001  1  
+Facil_id  13  33850000000001  1  
+Facil_id  13  33850000000002  1  
+Facil_Name  14  NULL  3606  
+Facil_Name  14  금아교  1  
+Facil_Name  14  서남문대교  1  
+Facil_Name  14  영락교  1  
+Facil_Name  14  희망교  1  
+Road_no  15  1120  19  
+Road_no  15  1132  52  
+Road_no  15  1136  1  
+Road_no  15  2  44  
+Road_no  15  NULL  1709  
+Oneway  16  1  9138  
+Oneway  16  2  13  
+Oneway  16  3  334  
+Oneway  16  4  274  
+Oneway  16  6  1  
+Lane  17  1  8782  
+Lane  17  2  3981  
+Lane  17  3  19  
+Lane  17  4  865  
+Lane  17  6  1  
+Toll  18  1  2163843  
+Toll  18  2  24752  
+Car_lane  19  0  2164450  
+Car_lane  19  1  24145  
+Var_lane  20  0  2188147  
+Var_lane  20  1  448  
+Hov_lane  21  0  2185186  
+Hov_lane  21  1  3409  
+S_Hov_lane  22  0  2181835  
+S_Hov_lane  22  1  6760  
+Road_name  23  대청로  1  
+Road_name  23  대청로530번길  1  
+Road_name  23  두무진로  2  
+Road_name  23  소청서로  1  
+Road_name  23  인천-백령도간페리항로  11  
+Barrier  24  0允뻔?  1  
+Barrier  24  0允뻔?30번길  1  
+Barrier  24  0光?백령도간페리항로  11  
+Barrier  24  0菅チ扁?  2  
+Barrier  24  0櫓뻤??  1  
+Lane_p  25  0  47812  
+Lane_p  25  1  1  
+Lane_p  25  2  379  
+Lane_p  25  3  81  
+Lane_p  25  5  1  
+Lane_n  26  0  19016  
+Lane_n  26  1  2  
+Lane_n  26  2  490  
+Lane_n  26  3  40  
+Lane_n  26  4  1  
+Pk_lane_lp  27  0  436914  
+Pk_lane_lp  27  1  1822  
+Pk_lane_lp  27  2  34  
+Pk_lane_lp  27  3  4  
+Pk_lane_lp  27  4  1  
+Pk_lane_ln  28  0  455834  
+Pk_lane_ln  28  1  7692  
+Pk_lane_ln  28  2  119  
+Pk_lane_ln  28  3  7  
+Pk_lane_ln  28  4  1  
+Pk_lane_rp  29  0  2179172  
+Pk_lane_rp  29  1  9096  
+Pk_lane_rp  29  2  312  
+Pk_lane_rp  29  3  15  
+Pk_lane_rn  30  0  583161  
+Pk_lane_rn  30  1  6608  
+Pk_lane_rn  30  2  159  
+Pk_lane_rn  30  3  11  
+Pk_lane_rn  30  4  1  
+SpeedLL  31  0  2188595  
+SpeedLH  32  0  82070  
+SpeedLH  32  60  1  
+SpeedLH  32  70  2  
+SpeedLH  32  80  10  
+SpeedLH  32  90  1  
+=======================================================
+파일명 : NodeShape.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+Node_Id  1  NULL  1687319  
+Node_Attr  2  NOT NULL  1687319  
+Toll_Id  3  NOT NULL  1687319  
+RepNd_Id  4  NULL  1687319  
+Tra_Light  5  NULL  1687319  
+Nd_Name  6  NULL  1687319  
+Num_Link  7  NULL  1687319  
+Num_Link2  8  NULL  1687319  
+Link_Id1  9  NOT NULL  1687319  
+Link_Id2  10  NULL  1687319  
+Link_Id3  11  NULL  1687319  
+Link_Id4  12  NULL  1687319  
+Link_Id5  13  NULL  1687319  
+Link_Id6  14  NULL  1687319  
+Link_Id7  15  NULL  1687319  
+Link_Id8  16  NULL  1687319  
+t_code0  17  NOT NULL  1687319  
+t_code1  18  NULL  1687319  
+t_code2  19  NULL  1687319  
+t_code3  20  NULL  1687319  
+t_code4  21  NULL  1687319  
+t_code5  22  NULL  1687319  
+t_code6  23  NULL  1687319  
+t_code7  24  NULL  1687319  
+d_code0  25  NOT NULL  1687319  
+d_code1  26  NULL  1687319  
+d_code2  27  NULL  1687319  
+d_code3  28  NULL  1687319  
+d_code4  29  NULL  1687319  
+d_code5  30  NULL  1687319  
+d_code6  31  NULL  1687319  
+d_code7  32  NULL  1687319  
+CLink_Id0  33  NULL  1687319  
+CLink_Id1  34  NULL  1687319  
+CLink_Id2  35  NULL  1687319  
+CLink_Id3  36  NULL  1687319  
+CLink_Id4  37  NULL  1687319  
+CLink_Id5  38  NULL  1687319  
+CLink_Id6  39  NULL  1687319  
+CLink_Id7  40  NULL  1687319  
+DirText_s0  41  NULL  1687319  
+DirText_s1  42  NULL  1687319  
+DirText_s2  43  NULL  1687319  
+DirText_s3  44  NULL  1687319  
+DirText_s4  45  NULL  1687319  
+DirText_s5  46  NULL  1687319  
+DirText_s6  47  NULL  1687319  
+DirText_s7  48  NULL  1687319  
+DirText_l0  49  NULL  1687319  
+DirText_l1  50  NULL  1687319  
+DirText_l2  51  NULL  1687319  
+DirText_l3  52  NULL  1687319  
+DirText_l4  53  NULL  1687319  
+DirText_l5  54  NULL  1687319  
+DirText_l6  55  NULL  1687319  
+DirText_l7  56  NULL  1687319  
+X  57  NOT NULL  1687319  
+Y  58  NOT NULL  1687319  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+Node_Id  1  27780000000001  1  
+Node_Id  1  27780000000004  1  
+Node_Id  1  27780000000005  1  
+Node_Id  1  27870000000001  1  
+Node_Id  1  27870000000004  1  
+Node_Attr  2  1  198  
+Node_Attr  2  2  82  
+Node_Attr  2  3  61  
+Node_Attr  2  5  106  
+Node_Attr  2  9  1  
+Toll_Id  3  0  73208  
+Toll_Id  3  182  2  
+Toll_Id  3  183  2  
+Toll_Id  3  532  2  
+Toll_Id  3  542  1  
+RepNd_Id  4  0  22580  
+RepNd_Id  4  41340000043711  2  
+RepNd_Id  4  41340000044111  2  
+RepNd_Id  4  41540000044360  2  
+RepNd_Id  4  41540000044368  1  
+Tra_Light  5  0  1631687  
+Tra_Light  5  3  18502  
+Tra_Light  5  4  37130  
+Nd_Name  6  NULL  1202  
+Nd_Name  6  대정농공단지입구  1  
+Nd_Name  6  동일리  1  
+Nd_Name  6  서림수원지입구  1  
+Nd_Name  6  일과사거리  1  
+Num_Link  7  1  106  
+Num_Link  7  2  143  
+Num_Link  7  3  185  
+Num_Link  7  4  12  
+Num_Link  7  7  1  
+Num_Link2  8  0  1186  
+Num_Link2  8  1  1  
+Num_Link2  8  2  1  
+Num_Link2  8  3  1  
+Num_Link2  8  3오玖?  1  
+Link_Id1  9  27780000000001  1  
+Link_Id1  9  27780000000002  1  
+Link_Id1  9  27870000000001  1  
+Link_Id1  9  27870000000002  1  
+Link_Id1  9  27880000000001  1  
+Link_Id2  10  27780000000001  1  
+Link_Id2  10  27780000000002  1  
+Link_Id2  10  27870000000001  1  
+Link_Id2  10  27880000000002  1  
+Link_Id2  10  28710000000002  1  
+Link_Id3  11  28620000000007  1  
+Link_Id3  11  28620000000021  1  
+Link_Id3  11  28620000000023  1  
+Link_Id3  11  28620000000298  1  
+Link_Id3  11  NULL  20  
+Link_Id4  12  28620000000106  1  
+Link_Id4  12  28620000000218  1  
+Link_Id4  12  28620000000324  1  
+Link_Id4  12  32880000000020  1  
+Link_Id4  12  NULL  225  
+Link_Id5  13  33850000000254  1  
+Link_Id5  13  33860000000622  1  
+Link_Id5  13  41240000002619  1  
+Link_Id5  13  41240000003838  1  
+Link_Id5  13  NULL  1556  
+Link_Id6  14  33850000001101  1  
+Link_Id6  14  33860000000621  1  
+Link_Id6  14  41240000004122  1  
+Link_Id6  14  41330000005869  1  
+Link_Id6  14  NULL  4629  
+Link_Id7  15  33850000001102  1  
+Link_Id7  15  46570000000647  1  
+Link_Id7  15  47560000040572  1  
+Link_Id7  15  47660000020834  1  
+Link_Id7  15  NULL  335129  
+Link_Id8  16  47740000059018  1  
+Link_Id8  16  47840000069590  1  
+Link_Id8  16  48810000045846  1  
+Link_Id8  16  56410000039152  1  
+Link_Id8  16  NULL  805233  
+t_code0  17  00000002  17  
+t_code0  17  00000032  15  
+t_code0  17  00000332  16  
+t_code0  17  00000333  1  
+t_code0  17  00003332  1  
+t_code1  18  00000023  15  
+t_code1  18  00000323  16  
+t_code1  18  00000333  1  
+t_code1  18  00003323  1  
+t_code1  18  NULL  17  
+t_code2  19  00000233  91  
+t_code2  19  00000333  8  
+t_code2  19  00003233  3  
+t_code2  19  00003333  1  
+t_code2  19  NULL  126  
+t_code3  20  00002333  28  
+t_code3  20  00003333  1  
+t_code3  20  00333333  1  
+t_code3  20  03333333  1  
+t_code3  20  NULL  791  
+t_code4  21  0  2185186  
+t_code4  21  00333333  1  
+t_code4  21  03333333  1  
+t_code4  21  1  3409  
+t_code4  21  NULL  820  
+t_code5  22  0  2181835  
+t_code5  22  00333333  1  
+t_code5  22  03333333  1  
+t_code5  22  1  6760  
+t_code5  22  NULL  820  
+t_code6  23  대청로  1  
+t_code6  23  대청로530번길  1  
+t_code6  23  두무진로  2  
+t_code6  23  소청서로  1  
+t_code6  23  인천-백령도간페리항로  11  
+t_code7  24  0允뻔?  1  
+t_code7  24  0允뻔?30번길  1  
+t_code7  24  0光?백령도간페리항로  11  
+t_code7  24  0菅チ扁?  2  
+t_code7  24  0櫓뻤??  1  
+d_code0  25  0  47812  
+d_code0  25  1  1  
+d_code0  25  2  379  
+d_code0  25  3  81  
+d_code0  25  5  1  
+d_code1  26  0  19016  
+d_code1  26  1  2  
+d_code1  26  2  490  
+d_code1  26  3  40  
+d_code1  26  4  1  
+d_code2  27  0  436914  
+d_code2  27  1  1822  
+d_code2  27  2  34  
+d_code2  27  3  4  
+d_code2  27  4  1  
+d_code3  28  0  455834  
+d_code3  28  1  7692  
+d_code3  28  2  119  
+d_code3  28  3  7  
+d_code3  28  4  1  
+d_code4  29  0  2179172  
+d_code4  29  1  9096  
+d_code4  29  2  312  
+d_code4  29  3  15  
+d_code4  29  NULL  1  
+d_code5  30  0  583161  
+d_code5  30  1  6608  
+d_code5  30  2  159  
+d_code5  30  3  11  
+d_code5  30  4  1  
+d_code6  31  0  2188595  
+d_code6  31  00022311  1  
+d_code6  31  00223000  1  
+d_code6  31  00333333  2  
+d_code6  31  NULL  335129  
+d_code7  32  0  82070  
+d_code7  32  60  1  
+d_code7  32  70  2  
+d_code7  32  80  10  
+d_code7  32  90  1  
+CLink_Id0  33  33450000000124  1  
+CLink_Id0  33  33450000000354  1  
+CLink_Id0  33  33850000000101  1  
+CLink_Id0  33  41230000000353  1  
+CLink_Id0  33  NULL  1186  
+CLink_Id1  34  33450000000142  1  
+CLink_Id1  34  33450000000296  1  
+CLink_Id1  34  41230000000044  1  
+CLink_Id1  34  41230000001326  1  
+CLink_Id1  34  NULL  1187  
+CLink_Id2  35  33450000000168  1  
+CLink_Id2  35  41230000000476  1  
+CLink_Id2  35  41230000001022  1  
+CLink_Id2  35  41230000001434  1  
+CLink_Id2  35  NULL  1198  
+CLink_Id3  36  41230000000632  1  
+CLink_Id3  36  41230000000640  1  
+CLink_Id3  36  41230000000800  1  
+CLink_Id3  36  41230000001462  1  
+CLink_Id3  36  NULL  1297  
+CLink_Id4  37  41240000002619  1  
+CLink_Id4  37  41240000008283  1  
+CLink_Id4  37  41460000000782  1  
+CLink_Id4  37  41460000008166  1  
+CLink_Id4  37  NULL  14547  
+CLink_Id5  38  41240000004122  1  
+CLink_Id5  38  44820000004714  1  
+CLink_Id5  38  44820000004755  1  
+CLink_Id5  38  44820000022647  1  
+CLink_Id5  38  NULL  160693  
+CLink_Id6  39  NULL  1687319  
+CLink_Id7  40  NULL  1687319  
+DirText_s0  41  NULL  1186  
+DirText_s0  41  고란  1  
+DirText_s0  41  저지  1  
+DirText_s0  41  진리  1  
+DirText_s0  41  천촌리  1  
+DirText_s1  42  NULL  1187  
+DirText_s1  42  면사무소  2  
+DirText_s1  42  무릉  1  
+DirText_s1  42  보성  1  
+DirText_s1  42  일과  1  
+DirText_s2  43  NULL  1198  
+DirText_s2  43  고산  1  
+DirText_s2  43  대정  1  
+DirText_s2  43  여객터미널  1  
+DirText_s2  43  해안도로  1  
+DirText_s3  44  NULL  1553  
+DirText_s3  44  고산  4  
+DirText_s3  44  신창  1  
+DirText_s3  44  차귀도  1  
+DirText_s3  44  해안도로  1  
+DirText_s4  45  NULL  14547  
+DirText_s4  45  노형동  1  
+DirText_s4  45  성김대건신부기념관  1  
+DirText_s4  45  신창  1  
+DirText_s4  45  제주서중학교  1  
+DirText_s5  46  NULL  160693  
+DirText_s5  46  고산  1  
+DirText_s5  46  광주역  1  
+DirText_s5  46  시청,광주경찰청  1  
+DirText_s5  46  죽봉대로  1  
+DirText_s6  47  NULL  1687319  
+DirText_s7  48  NULL  1687319  
+DirText_l0  49  NULL  1188  
+DirText_l0  49  사리  1  
+DirText_l0  49  상라봉  1  
+DirText_l0  49  서귀포  1  
+DirText_l0  49  한림  1  
+DirText_l1  50  NULL  1319  
+DirText_l1  50  고산  1  
+DirText_l1  50  서귀포  5  
+DirText_l1  50  송악산  1  
+DirText_l1  50  진리  1  
+DirText_l2  51  NULL  1597  
+DirText_l2  51  고산  1  
+DirText_l2  51  송악산  1  
+DirText_l2  51  예리  1  
+DirText_l2  51  저지  1  
+DirText_l3  52  NULL  2787  
+DirText_l3  52  고산  1  
+DirText_l3  52  신창  2  
+DirText_l3  52  조수1  1  
+DirText_l3  52  한림  14  
+DirText_l4  53  NULL  21098  
+DirText_l4  53  대정  1  
+DirText_l4  53  용수  1  
+DirText_l4  53  중앙로터리  1  
+DirText_l4  53  한림  1  
+DirText_l5  54  NULL  810896  
+DirText_l5  54  고속도로  1  
+DirText_l5  54  왜목마을  1  
+DirText_l5  54  종합터미널  1  
+DirText_l5  54  한국폴리텍대학  1  
+DirText_l6  55  NULL  1687319  
+DirText_l7  56  NULL  1687319  
+X  57  124.62  1  
+X  57  124.79  1  
+X  57  124.87  2  
+X  57  124.90  2  
+X  57  125.00  2  
+Y  58  37.53  2  
+Y  58  37.58  1  
+Y  58  37.59  1  
+Y  58  37.60  2  
+Y  58  37.67  1  
+=======================================================
+파일명 : PolygonBdgShape.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+Polygon_Id  1  NULL  11903557  
+Bdg_id  2  NOT NULL  11903557  
+Pgon_Kind  3  NOT NULL  11903557  
+Bdg_Floor  4  NULL  11903557  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+Polygon_Id  1  1  2  
+Polygon_Id  1  2  1  
+Polygon_Id  1  3  2  
+Polygon_Id  1  4  2  
+Polygon_Id  1  5  1  
+Bdg_id  2  0  181  
+Bdg_id  2  1  1  
+Bdg_id  2  2  1  
+Bdg_id  2  3  1  
+Bdg_id  2  4  1  
+Pgon_Kind  3  2410  2  
+Pgon_Kind  3  2510  4  
+Pgon_Kind  3  2710  2  
+Pgon_Kind  3  2810  1  
+Pgon_Kind  3  2910  1  
+Bdg_Floor  4  0  908  
+Bdg_Floor  4  1  1105  
+Bdg_Floor  4  2  67  
+Bdg_Floor  4  3  6  
+Bdg_Floor  4  5  1  
+=======================================================
+파일명 : PolygonShape.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+Polygon_Id  1  NULL  1720671  
+Bdg_id  2  NOT NULL  1720671  
+Pgon_Kind  3  NOT NULL  1720671  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+Polygon_Id  1  1  4  
+Polygon_Id  1  13  1  
+Polygon_Id  1  14  1  
+Polygon_Id  1  2  1  
+Polygon_Id  1  5  1  
+Bdg_id  2  0  22235  
+Bdg_id  2  11883  1  
+Bdg_id  2  134  1  
+Bdg_id  2  2065  1  
+Bdg_id  2  3246  1  
+Pgon_Kind  3  1780  1  
+Pgon_Kind  3  17b0  1  
+Pgon_Kind  3  6310  6  
+Pgon_Kind  3  a110  1  
+Pgon_Kind  3  a510  2  
+=======================================================
+파일명 : PolylineShape.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+PLine_Id  1  NULL  223383  
+PLine_kind  2  NOT NULL  223383  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+PLine_Id  1  103  1  
+PLine_Id  1  104  1  
+PLine_Id  1  6  1  
+PLine_Id  1  7  1  
+PLine_Id  1  8  1  
+PLine_kind  2  1420  2  
+PLine_kind  2  6410  17  
+PLine_kind  2  9110  2  
+PLine_kind  2  9310  1  
+PLine_kind  2  9311  118  
+=======================================================
+파일명 : RepNode.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+Rep_Nd_Id  1  NULL  4541  
+Rep_Kind  2  NOT NULL  4541  
+Sub_Nd_Num  3  NOT NULL  4541  
+Sub_Nd_Id  4  NULL  4541  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+Rep_Nd_Id  1  41340000043711  1  
+Rep_Nd_Id  1  41340000044111  1  
+Rep_Nd_Id  1  41540000044360  1  
+Rep_Nd_Id  1  41540000044368  1  
+Rep_Nd_Id  1  41560000021530  1  
+Rep_Kind  2  0  157  
+Rep_Kind  2  1  4384  
+Sub_Nd_Num  3  1  2427  
+Sub_Nd_Num  3  2  428  
+Sub_Nd_Num  3  3  1686  
+Sub_Nd_Id  4  41340000043842  1  
+Sub_Nd_Id  4  41340000044112  1  
+Sub_Nd_Id  4  41540000044362  1  
+Sub_Nd_Id  4  41540000044370  1  
+Sub_Nd_Id  4  41560000021531  1  
+=======================================================
+파일명 : Solid3DBLD.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+Index  1  NULL  4782  
+SBdg_Id  2  NOT NULL  4782  
+Name_Size  3  NOT NULL  4782  
+Name  4  NULL  4782  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+Index  1  41240000000002  1  
+Index  1  41240000000004  1  
+Index  1  41250000000003  1  
+Index  1  41250000000004  1  
+Index  1  41250000000005  1  
+SBdg_Id  2  15030037  1  
+SBdg_Id  2  15030038  1  
+SBdg_Id  2  15030043  1  
+SBdg_Id  2  15030059  1  
+SBdg_Id  2  15030060  1  
+Name_Size  3  0  4782  
+Name  4  NULL  4782  
+=======================================================
+파일명 : TempTimeNode.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+TINdID  1  NULL  321  
+TINdInLk  2  NOT NULL  321  
+TINdOutLk  3  NOT NULL  321  
+TINdVarID  4  NULL  321  
+TTTI_num  5  NULL  321  
+TTTI_kind  6  NULL  321  
+TTTI_info  7  NULL  321  
+start_date  8  NULL  321  
+end_date  9  NOT NULL  321  
+week_day  10  NULL  321  
+start_hour  11  NULL  321  
+end_hour  12  NULL  321  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+TINdID  1  43470000049614  1  
+TINdID  1  43470000049615  2  
+TINdID  1  47650000003489  1  
+TINdID  1  47650000003526  2  
+TINdID  1  47650000003528  1  
+TINdInLk  2  43470000011486  2  
+TINdInLk  2  43470000011489  1  
+TINdInLk  2  47650000001581  1  
+TINdInLk  2  47650000001582  1  
+TINdInLk  2  47650000047454  1  
+TINdOutLk  3  43470000011486  1  
+TINdOutLk  3  43470000011588  1  
+TINdOutLk  3  43470000012584  1  
+TINdOutLk  3  47650000000894  1  
+TINdOutLk  3  47650000000920  1  
+TINdVarID  4  43470000000003  3  
+TINdVarID  4  47650000000003  11  
+TINdVarID  4  47660000000004  1  
+TINdVarID  4  47660000000005  4  
+TINdVarID  4  47660000000008  1  
+TTTI_num  5  1  277  
+TTTI_num  5  2  38  
+TTTI_num  5  3  6  
+TTTI_kind  6  0  321  
+TTTI_info  7  111  321  
+start_date  8  0/0/0  321  
+end_date  9  0/0/0  321  
+week_day  10  127  145  
+week_day  10  128  1  
+week_day  10  31  36  
+week_day  10  63  1  
+week_day  10  64  1  
+start_hour  11  17:0  4  
+start_hour  11  18:0  2  
+start_hour  11  6:0  4  
+start_hour  11  7:0  20  
+start_hour  11  7:30  1  
+end_hour  12  15:30  1  
+end_hour  12  19:0  2  
+end_hour  12  20:0  4  
+end_hour  12  8:30  1  
+end_hour  12  9:0  34  
+=======================================================
+파일명 : TempTimeTrafficInfo.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+TTTI_id  1  NULL  1397  
+TTTI_num  2  NOT NULL  1397  
+TTTI_kind  3  NOT NULL  1397  
+TTTI_info  4  NULL  1397  
+start_date  5  NULL  1397  
+end_date  6  NULL  1397  
+week_day  7  NULL  1397  
+start_hour  8  NULL  1397  
+end_hour  9  NOT NULL  1397  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+TTTI_id  1  41240000000002  1  
+TTTI_id  1  41250000000001  1  
+TTTI_id  1  41330000000001  1  
+TTTI_id  1  41330000000002  1  
+TTTI_id  1  41340000000001  1  
+TTTI_num  2  1  1307  
+TTTI_num  2  2  76  
+TTTI_num  2  3  6  
+TTTI_num  2  4  8  
+TTTI_kind  3  0  157  
+TTTI_kind  3  1  545  
+TTTI_kind  3  3  2  
+TTTI_kind  3  4  693  
+TTTI_info  4  000  1238  
+TTTI_info  4  001  1  
+TTTI_info  4  111  158  
+start_date  5  0/0/0  1397  
+end_date  6  0/0/0  1397  
+week_day  7  0  124  
+week_day  7  127  1  
+week_day  7  31  1  
+week_day  7  8  1  
+week_day  7  96  2  
+start_hour  8  0:0  110  
+start_hour  8  10:0  1  
+start_hour  8  12:0  1  
+start_hour  8  17:0  1  
+start_hour  8  5:0  1  
+end_hour  9  18:0  1  
+end_hour  9  22:0  4  
+end_hour  9  24:0  234  
+end_hour  9  4:0  1  
+end_hour  9  6:0  1  
+=======================================================
+파일명 : TextShape.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+Text_id  1  NULL  1162395  
+Poi_id  2  NOT NULL  1162395  
+Text  3  NOT NULL  1162395  
+Text_Kind  4  NULL  1162395  
+From_Level  5  NULL  1162395  
+To_Level  6  NULL  1162395  
+Disp_Kind  7  NULL  1162395  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+Text_id  1  41340000000473  1  
+Text_id  1  41340000000898  1  
+Text_id  1  41340000000932  1  
+Text_id  1  41340000001036  1  
+Text_id  1  41460000000726  1  
+Poi_id  2  7597426  1  
+Poi_id  2  8764078  1  
+Poi_id  2  9856490  1  
+Poi_id  2  9881505  1  
+Poi_id  2  9932051  1  
+Text  3  나트랑  1  
+Text  3  말한마리가든  1  
+Text  3  샐러드앤미미더베드  1  
+Text  3  서광춘희  1  
+Text  3  아일랜드포소랑  1  
+Text_Kind  4  1000  411  
+Text_Kind  4  1080  238  
+Text_Kind  4  1081  553  
+Text_Kind  4  1083  253  
+Text_Kind  4  1084  1  
+From_Level  5  10  2  
+From_Level  5  11  17  
+From_Level  5  12  1  
+From_Level  5  8  1  
+From_Level  5  9  4  
+To_Level  6  11  9264  
+To_Level  6  12  281932  
+To_Level  6  5  1  
+To_Level  6  8  1  
+To_Level  6  9  15  
+Disp_Kind  7  1  336703  
+Disp_Kind  7  2  112401  
+Disp_Kind  7  3  713291  
+=======================================================
+파일명 : TraInfo.dbf
+=======================================================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+TraLink_id  1  NULL  546550  
+CpId  2  NOT NULL  546550  
+TraId_p  3  NULL  546550  
+TraId_n  4  NULL  546550  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+TraLink_id  1  33850000000101  1  
+TraLink_id  1  33850000000102  1  
+TraLink_id  1  33850000000106  1  
+TraLink_id  1  33850000000123  1  
+TraLink_id  1  33850000000124  1  
+CpId  2  5  546550  
+TraId_p  3  3450002600  1  
+TraId_p  3  3450003200  1  
+TraId_p  3  3450003500  2  
+TraId_p  3  3450003900  3  
+TraId_p  3  3450004000  1  
+TraId_n  4  3450002500  1  
+TraId_n  4  3450003100  1  
+TraId_n  4  3450003600  2  
+TraId_n  4  3450003900  1  
+TraId_n  4  3450004000  3  

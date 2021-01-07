@@ -1,0 +1,450 @@
+=============================
+파일명 : CommonRender.dbf
+=============================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+CR_Node_id  1  NOT NULL  19997  
+Cross_Type  2  NOT NULL  19997  
+CR_InLkId  3  NOT NULL  19997  
+OutLk_Id  4  NOT NULL  19997  
+OutLk_size  5  NOT NULL  19997  
+PatternId  6  NULL  19997  
+ArrowId  7  NULL  19997  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+CR_Node_id  1  41240000040166  17  
+CR_Node_id  1  41240000044732  1  
+CR_Node_id  1  41340000039741  2  
+CR_Node_id  1  41340000039764  2  
+CR_Node_id  1  41340000039803  2  
+CR_Node_id  1  41340000039981  2  
+CR_Node_id  1  41340000043665  2  
+CR_Node_id  1  41350000001195  2  
+CR_Node_id  1  41350000001227  20  
+CR_Node_id  1  41350000001587  1  
+Cross_Type  2  1  2828  
+Cross_Type  2  2  1386  
+Cross_Type  2  3  1063  
+Cross_Type  2  6  14720  
+CR_InLkId  3  41240000003317  4  
+CR_InLkId  3  41240000006294  3  
+CR_InLkId  3  41240000006300  4  
+CR_InLkId  3  41240000008281  3  
+CR_InLkId  3  41240000008282  1  
+CR_InLkId  3  41240000008283  3  
+CR_InLkId  3  41340000002175  1  
+CR_InLkId  3  41340000002644  2  
+CR_InLkId  3  41340000003732  2  
+CR_InLkId  3  41340000006453  2  
+OutLk_Id  4  41240000003317  4  
+OutLk_Id  4  41240000006294  3  
+OutLk_Id  4  41240000006300  4  
+OutLk_Id  4  41240000008280  1  
+OutLk_Id  4  41240000008281  4  
+OutLk_Id  4  41240000008283  2  
+OutLk_Id  4  41340000001614  1  
+OutLk_Id  4  41340000001616  1  
+OutLk_Id  4  41340000003702  1  
+OutLk_Id  4  41340000003714  1  
+OutLk_size  5  1  2433  
+OutLk_size  5  2  13944  
+OutLk_size  5  3  1407  
+OutLk_size  5  4  1524  
+OutLk_size  5  5  640  
+OutLk_size  5  7  49  
+PatternId  6  KRCM1032005DB009130604  1  
+PatternId  6  KRMM000000000080222102  2  
+PatternId  6  KRMM000000000080223111  6  
+PatternId  6  KRMM000000000080233106  2  
+PatternId  6  KRMM000800FC0110000001  8  
+PatternId  6  KRMM000800FC0120000001  8  
+PatternId  6  KRMM000800FC0130000001  8  
+PatternId  6  KRMM000800FC0140000001  7  
+PatternId  6  KRMM000800FC0150000001  7  
+PatternId  6  KRMM000800SA2210000201  46  
+ArrowId  7  KRMA000100FC0120000001  1  
+ArrowId  7  KRMA000100FC0150000001  1  
+ArrowId  7  KRMA000200FC0110000001  1  
+ArrowId  7  KRMA000200FC0150000001  1  
+ArrowId  7  KRMA000300FC0110000001  1  
+ArrowId  7  KRMA000300FC0120000001  1  
+ArrowId  7  KRMA000300FC0150000001  1  
+ArrowId  7  KRMA000400FC0110000001  1  
+ArrowId  7  KRMA000400FC0120000001  1  
+ArrowId  7  KRMA000500FC0120000001  1  
+=============================
+파일명 : HighWay.dbf
+=============================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+Hw_Node_id  1  NOT NULL  5940  
+Hw_in_id  2  NOT NULL  5940  
+Hw_out_id  3  NOT NULL  5940  
+Hw_pt_code  4  NOT NULL  5940  
+Hw_ar_code  5  NOT NULL  5940  
+Hw_vc_code  6  NULL  5940  
+Hw_NumInNd  7  NULL  5940  
+Hw_NumOtNd  8  NOT NULL  5940  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+Hw_Node_id  1  43470000000406  2  
+Hw_Node_id  1  43470000000407  2  
+Hw_Node_id  1  43470000000411  2  
+Hw_Node_id  1  43550000041980  2  
+Hw_Node_id  1  43560000002318  2  
+Hw_Node_id  1  43650000040516  2  
+Hw_Node_id  1  43650000040566  2  
+Hw_Node_id  1  43650000040646  2  
+Hw_Node_id  1  43650000040666  2  
+Hw_Node_id  1  43650000040676  1  
+Hw_in_id  2  43470000010051  2  
+Hw_in_id  2  43470000011119  2  
+Hw_in_id  2  43470000013894  2  
+Hw_in_id  2  43550000004638  2  
+Hw_in_id  2  43560000002993  2  
+Hw_in_id  2  43650000002754  2  
+Hw_in_id  2  43650000002936  1  
+Hw_in_id  2  43650000002982  2  
+Hw_in_id  2  43650000003026  2  
+Hw_in_id  2  43650000003040  2  
+Hw_out_id  3  43470000010158  1  
+Hw_out_id  3  43470000010159  1  
+Hw_out_id  3  43470000010671  1  
+Hw_out_id  3  43470000010690  1  
+Hw_out_id  3  43470000011304  1  
+Hw_out_id  3  43470000011306  1  
+Hw_out_id  3  43550000004630  1  
+Hw_out_id  3  43550000004640  1  
+Hw_out_id  3  43560000002990  1  
+Hw_out_id  3  43560000002999  1  
+Hw_pt_code  4  80222001  16  
+Hw_pt_code  4  80222101  2  
+Hw_pt_code  4  80222102  6  
+Hw_pt_code  4  80223101  52  
+Hw_pt_code  4  80231001  2  
+Hw_pt_code  4  80231012  4  
+Hw_pt_code  4  80231013  9  
+Hw_pt_code  4  80232001  1  
+Hw_pt_code  4  80233105  2  
+Hw_pt_code  4  80aa3102  6  
+Hw_ar_code  5  00222001  4  
+Hw_ar_code  5  00222101  1  
+Hw_ar_code  5  00223101  13  
+Hw_ar_code  5  00aa3102  1  
+Hw_ar_code  5  10222101  1  
+Hw_ar_code  5  10231013  1  
+Hw_ar_code  5  10aa3102  1  
+Hw_ar_code  5  20222001  4  
+Hw_ar_code  5  20223101  13  
+Hw_ar_code  5  70231013  1  
+Hw_vc_code  6  0  1895  
+Hw_vc_code  6  1  2878  
+Hw_vc_code  6  2  1167  
+Hw_NumInNd  7  0  5684  
+Hw_NumInNd  7  1  256  
+Hw_NumOtNd  8  0  5684  
+Hw_NumOtNd  8  2  246  
+Hw_NumOtNd  8  3  8  
+Hw_NumOtNd  8  4  2  
+=============================
+파일명 : LeftTurn.dbf
+=============================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+LTurn_NdId  1  NOT NULL  22692  
+DataNum  2  NOT NULL  22692  
+InputLkId  3  NOT NULL  22692  
+OutptLkId  4  NOT NULL  22692  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+LTurn_NdId  1  41250000000339  2  
+LTurn_NdId  1  41330000016765  1  
+LTurn_NdId  1  41340000039694  2  
+LTurn_NdId  1  41340000040119  2  
+LTurn_NdId  1  41350000001936  2  
+LTurn_NdId  1  41360000000323  2  
+LTurn_NdId  1  41360000000325  2  
+LTurn_NdId  1  41360000000868  3  
+LTurn_NdId  1  41360000000941  2  
+LTurn_NdId  1  41360000001068  1  
+DataNum  2  1  9328  
+DataNum  2  2  8004  
+DataNum  2  3  771  
+DataNum  2  4  4420  
+DataNum  2  5  60  
+DataNum  2  6  72  
+DataNum  2  7  21  
+DataNum  2  8  16  
+InputLkId  3  41250000000124  1  
+InputLkId  3  41250000001638  1  
+InputLkId  3  41330000003348  1  
+InputLkId  3  41340000002589  1  
+InputLkId  3  41340000002593  1  
+InputLkId  3  41340000005946  1  
+InputLkId  3  41340000005960  1  
+InputLkId  3  41350000003118  1  
+InputLkId  3  41350000005868  1  
+InputLkId  3  41360000002336  1  
+OutptLkId  4  41250000001630  1  
+OutptLkId  4  41250000002029  1  
+OutptLkId  4  41330000003516  1  
+OutptLkId  4  41340000002590  1  
+OutptLkId  4  41340000002594  1  
+OutptLkId  4  41340000005938  1  
+OutptLkId  4  41340000005950  1  
+OutptLkId  4  41350000005866  1  
+OutptLkId  4  41350000006770  1  
+OutptLkId  4  41360000001668  1  
+=============================
+파일명 : PolylineShape.dbf
+=============================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+PLine_Id  1  NOT NULL  223383  
+PLine_kind  2  NOT NULL  223383  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+PLine_Id  1  103  1  
+PLine_Id  1  104  1  
+PLine_Id  1  105  1  
+PLine_Id  1  106  1  
+PLine_Id  1  13  1  
+PLine_Id  1  14  1  
+PLine_Id  1  15  1  
+PLine_Id  1  6  1  
+PLine_Id  1  7  1  
+PLine_Id  1  8  1  
+PLine_kind  2  1420  100  
+PLine_kind  2  2f30  288  
+PLine_kind  2  6120  12  
+PLine_kind  2  6410  24  
+PLine_kind  2  7510  2  
+PLine_kind  2  7520  1  
+PLine_kind  2  9110  5  
+PLine_kind  2  9210  9  
+PLine_kind  2  9310  33  
+PLine_kind  2  9311  478  
+=============================
+파일명 : RepNode.dbf
+=============================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+Rep_Nd_Id  1  NOT NULL  4541  
+Rep_Kind  2  NOT NULL  4541  
+Sub_Nd_Num  3  NOT NULL  4541  
+Sub_Nd_Id  4  NOT NULL  4541  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+Rep_Nd_Id  1  41340000043711  1  
+Rep_Nd_Id  1  41340000044111  1  
+Rep_Nd_Id  1  41540000044360  1  
+Rep_Nd_Id  1  41540000044368  1  
+Rep_Nd_Id  1  41560000021530  1  
+Rep_Nd_Id  1  41570000012099  1  
+Rep_Nd_Id  1  41570000012101  1  
+Rep_Nd_Id  1  41670000001913  1  
+Rep_Nd_Id  1  41750000000363  3  
+Rep_Nd_Id  1  41750000012235  1  
+Rep_Kind  2  0  157  
+Rep_Kind  2  1  4384  
+Sub_Nd_Num  3  1  2427  
+Sub_Nd_Num  3  2  428  
+Sub_Nd_Num  3  3  1686  
+Sub_Nd_Id  4  41340000043842  1  
+Sub_Nd_Id  4  41340000044112  1  
+Sub_Nd_Id  4  41540000044362  1  
+Sub_Nd_Id  4  41540000044370  1  
+Sub_Nd_Id  4  41560000021531  1  
+Sub_Nd_Id  4  41570000012100  1  
+Sub_Nd_Id  4  41570000012102  1  
+Sub_Nd_Id  4  41670000001914  1  
+Sub_Nd_Id  4  41750000012203  1  
+Sub_Nd_Id  4  41750000014300  1  
+=============================
+파일명 : Solid3DBLD.dbf
+=============================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+Index  1  NOT NULL  4782  
+SBdg_Id  2  NOT NULL  4782  
+Name_Size  3  NOT NULL  4782  
+Name  4  NULL  4782  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+Index  1  41240000000002  1  
+Index  1  41240000000004  1  
+Index  1  41250000000003  1  
+Index  1  41250000000004  1  
+Index  1  41250000000005  1  
+Index  1  41250000000007  1  
+Index  1  41340000000007  1  
+Index  1  41340000000008  1  
+Index  1  41340000000009  1  
+Index  1  41350000000004  1  
+SBdg_Id  2  15030031  1  
+SBdg_Id  2  15030037  1  
+SBdg_Id  2  15030038  1  
+SBdg_Id  2  15030043  1  
+SBdg_Id  2  15030053  1  
+SBdg_Id  2  15030059  1  
+SBdg_Id  2  15030060  1  
+SBdg_Id  2  15030076  1  
+SBdg_Id  2  15030086  1  
+SBdg_Id  2  15030095  1  
+Name_Size  3  0  4782  
+Name  4  NULL  4782  
+=============================
+파일명 : TempTimeNode.dbf
+=============================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+TINdID  1  NOT NULL  321  
+TINdInLk  2  NOT NULL  321  
+TINdOutLk  3  NOT NULL  321  
+TINdVarID  4  NULL  321  
+TTTI_num  5  NOT NULL  321  
+TTTI_kind  6  NULL  321  
+TTTI_info  7  NULL  321  
+start_date  8  NOT NULL  321  
+end_date  9  NOT NULL  321  
+week_day  10  NOT NULL  321  
+start_hour  11  NOT NULL  321  
+end_hour  12  NOT NULL  321  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+TINdID  1  43470000049614  1  
+TINdID  1  43470000049615  2  
+TINdID  1  47650000003489  1  
+TINdID  1  47650000003526  2  
+TINdID  1  47650000003528  1  
+TINdID  1  47650000003531  1  
+TINdID  1  47650000003533  1  
+TINdID  1  47650000003594  1  
+TINdID  1  47650000003669  1  
+TINdID  1  47650000003692  1  
+TINdInLk  2  43470000011486  2  
+TINdInLk  2  43470000011489  1  
+TINdInLk  2  47650000001581  1  
+TINdInLk  2  47650000001582  1  
+TINdInLk  2  47650000001583  1  
+TINdInLk  2  47650000005144  1  
+TINdInLk  2  47650000045531  1  
+TINdInLk  2  47650000046642  1  
+TINdInLk  2  47650000046644  1  
+TINdInLk  2  47650000047454  1  
+TINdOutLk  3  43470000011486  1  
+TINdOutLk  3  43470000011588  1  
+TINdOutLk  3  43470000012584  1  
+TINdOutLk  3  47650000000894  1  
+TINdOutLk  3  47650000000920  1  
+TINdOutLk  3  47650000000921  1  
+TINdOutLk  3  47650000000958  1  
+TINdOutLk  3  47650000001484  1  
+TINdOutLk  3  47650000001584  1  
+TINdOutLk  3  47650000045940  1  
+TINdVarID  4  43470000000003  3  
+TINdVarID  4  47650000000003  11  
+TINdVarID  4  47660000000004  6  
+TINdVarID  4  47660000000005  4  
+TINdVarID  4  47660000000008  1  
+TINdVarID  4  47670000000004  1  
+TINdVarID  4  47680000000003  2  
+TINdVarID  4  47740000000003  1  
+TINdVarID  4  47740000000004  1  
+TINdVarID  4  47750000000003  1  
+TTTI_num  5  1  277  
+TTTI_num  5  2  38  
+TTTI_num  5  3  6  
+TTTI_kind  6  0  321  
+TTTI_info  7  111  321  
+start_date  8  0/0/0  321  
+end_date  9  0/0/0  321  
+week_day  10  127  170  
+week_day  10  128  4  
+week_day  10  31  115  
+week_day  10  32  2  
+week_day  10  63  21  
+week_day  10  64  2  
+week_day  10  65  3  
+week_day  10  96  4  
+start_hour  11  0:0  3  
+start_hour  11  12:30  2  
+start_hour  11  16:0  2  
+start_hour  11  17:0  4  
+start_hour  11  18:0  5  
+start_hour  11  6:0  5  
+start_hour  11  6:30  1  
+start_hour  11  7:0  120  
+start_hour  11  7:30  18  
+start_hour  11  8:0  59  
+end_hour  12  10:0  87  
+end_hour  12  15:30  2  
+end_hour  12  19:0  2  
+end_hour  12  20:0  4  
+end_hour  12  22:0  1  
+end_hour  12  23:0  3  
+end_hour  12  24:0  1  
+end_hour  12  8:0  8  
+end_hour  12  8:30  1  
+end_hour  12  9:0  70  
+=============================
+파일명 : TempTimeTrafficInfo.dbf
+=============================
+[필드명] [필드순서] [NullCheck] [데이터갯수]
+TTTI_id  1  NOT NULL  1397  
+TTTI_num  2  NOT NULL  1397  
+TTTI_kind  3  NOT NULL  1397  
+TTTI_info  4  NULL  1397  
+start_date  5  NOT NULL  1397  
+end_date  6  NULL  1397  
+week_day  7  NULL  1397  
+start_hour  8  NOT NULL  1397  
+end_hour  9  NOT NULL  1397  
+
+[필드명] [필드순서] [코드명] [코드갯수]
+TTTI_id  1  41240000000002  1  
+TTTI_id  1  41250000000001  1  
+TTTI_id  1  41330000000001  1  
+TTTI_id  1  41330000000002  1  
+TTTI_id  1  41340000000001  1  
+TTTI_id  1  41340000000002  1  
+TTTI_id  1  41350000000001  1  
+TTTI_id  1  41350000000002  1  
+TTTI_id  1  41360000000001  1  
+TTTI_id  1  41360000000002  1  
+TTTI_num  2  1  1307  
+TTTI_num  2  2  76  
+TTTI_num  2  3  6  
+TTTI_num  2  4  8  
+TTTI_kind  3  0  157  
+TTTI_kind  3  1  545  
+TTTI_kind  3  3  2  
+TTTI_kind  3  4  693  
+TTTI_info  4  000  1238  
+TTTI_info  4  001  1  
+TTTI_info  4  111  158  
+start_date  5  0/0/0  1397  
+end_date  6  0/0/0  1397  
+week_day  7  0  273  
+week_day  7  1  1  
+week_day  7  127  3  
+week_day  7  30  1  
+week_day  7  31  11  
+week_day  7  48  1  
+week_day  7  63  2  
+week_day  7  8  1  
+week_day  7  96  2  
+week_day  7  97  1  
+start_hour  8  0:0  256  
+start_hour  8  10:0  1  
+start_hour  8  11:0  1  
+start_hour  8  12:0  1  
+start_hour  8  16:0  1  
+start_hour  8  17:0  1  
+start_hour  8  18:0  2  
+start_hour  8  5:0  1  
+start_hour  8  6:0  2  
+start_hour  8  8:0  1  
+end_hour  9  11:0  1  
+end_hour  9  12:0  1  
+end_hour  9  18:0  1  
+end_hour  9  20:0  1  
+end_hour  9  22:0  4  
+end_hour  9  24:0  267  
+end_hour  9  4:0  1  
+end_hour  9  5:0  2  
+end_hour  9  6:0  1  
+end_hour  9  9:0  2  
